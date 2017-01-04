@@ -4,3 +4,4 @@
 
 The list of contributors:
 * Anubha Kushwaha
+* Nikhil Kumar Singh
